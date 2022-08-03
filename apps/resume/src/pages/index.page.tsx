@@ -3,7 +3,7 @@ import { data as otherExperienceDate, IOtherExperience } from '../../_content/Ot
 import { data as skillsData, ISkills } from '../../_content/Skills';
 import { data as workExperienceData, IWorkExperience } from '../../_content/Work-Experience';
 import Header from '../components/Header';
-
+import OtherExperienceSection from '../components/OtherExperienceSection';
 import SkillsSection from '../components/SkillsSection/SkillsSection';
 import WorkExperienceSection from '../components/WorkExperienceSection';
 
@@ -19,7 +19,7 @@ function Resume({ header, workExperience, otherExperience, skills }: Props) {
     <main>
       <Header {...header} />
       <WorkExperienceSection {...workExperience} />
-      
+      <OtherExperienceSection {...otherExperience} />
       <SkillsSection {...skills} />
     </main>
   );

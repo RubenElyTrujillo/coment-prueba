@@ -19,7 +19,7 @@ function Resume({ header, workExperience, otherExperience, skills }: Props) {
     <main>
       <Header {...header} />
       <WorkExperienceSection {...workExperience} />
-      <OtherExperienceSection {...otherExperience} />
+      
       <SkillsSection {...skills} />
     </main>
   );

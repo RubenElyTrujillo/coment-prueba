@@ -1,45 +1,27 @@
 {
-  "title": "Skills",
+  "title": "Cursos y Congresos",
   "list": [
+
     {
-      "name": "Soft skill",
-      "descriptions": ["I like to talk"]
-    },
-    {
-      "name": "HTML/CSS",
+      "name": "Cursos",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio."
+        "Copywriting para anuncios. Escuela de Copywriting ABC del Copywring",
+        "Escuela de Copywriting",
+        "Crea ofertas irresistibles para productos y servicios",
+        "Convierte más escuela",
+        "Viral Marketing and How to Craft Contagius Content",
+        "Storytelling:El arte de contar historias",
+        "Crehana: La evolución del Internal Branding",
+        "Crehana: Community Manager."
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Congresos",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio ut voluptatem praesentium."
-      ]
-    },
-    {
-      "name": "Dev Ops",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
-    },
-    {
-      "name": "ETC",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "UVP. Transformación Digital en los negocios. 2019. Courtyard Marriot",
+        "UVP. Tendencias en los negocios 3.0. 2018. CCU",
+        "UVP: La reingeniería en los negocios. 2017. CCU",
+        "UVP. La sinergia como factor de éxito empresarial. 2016. CCU"
       ]
     }
   ]

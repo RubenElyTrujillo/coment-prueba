@@ -1,53 +1,53 @@
 {
-  "title": "Other Experience",
+  "title": "",
   "list": [
     {
       "title": {
-        "text": "Foo University",
+        "text": "",
         "githubLink": null,
         "otherLink": null
       },
-      "position": "Student",
-      "startDate": "2018.03",
-      "endDate": "2021.03",
-      "description": "Graduated software develop major",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
       "which": []
     },
     {
       "title": {
-        "text": "Bar Club",
+        "text": "",
         "githubLink": null,
         "otherLink": null
       },
-      "position": "FE developer course",
-      "startDate": "2018.03",
-      "endDate": "2018.12",
-      "description": "Learning FE development",
-      "which": ["learning HTML/CSS", "learning SPA Framework"]
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "which": [""]
     },
     {
       "title": {
-        "text": "Lovein Next.js Club",
+        "text": "",
         "githubLink": null,
-        "otherLink": "https://nextjs.org/"
+        "otherLink": ""
       },
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Love Next.js and NextUI",
-      "which": ["Comet-land build with Next.js and NextUI"]
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "which": [""]
     },
     {
       "title": {
-        "text": "Turbo Developers",
+        "text": "",
         "githubLink": null,
-        "otherLink": "https://turborepo.org/"
+        "otherLink": ""
       },
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Comet-land build with turborepo",
-      "which": ["Turborepo is awesome", "It's super fast"]
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "which": [""]
     }
   ]
 }

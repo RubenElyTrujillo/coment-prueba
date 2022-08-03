@@ -1,93 +1,85 @@
 {
-  "title": "Work Experience",
+  "title": "EXPERIENCIA LABORAL",
   "list": [
     {
-      "name": "Foo company",
-      "position": "Web Developer",
-      "startDate": "2021.03",
-      "endDate": "",
-      "description": "Foo company is social media company for every world",
+      "name": "Sublicenter",
+      "position": "Estratega de Marketing",
+      "startDate": "2021.02",
+      "endDate": "2022.05",
+      "description": "",
       "projects": [
         {
           "title": {
-            "text": "Foo Pay",
+            "text": "Estratega de Marketing",
             "githubLink": null,
             "otherLink": null
           },
-          "description": "Leading FE developers",
-          "startDate": "2022.01",
+          "description": "",
+          "startDate": "",
           "endDate": "",
-          "which": ["leading fe developers", "foster SEO"],
-          "techStack": ["TypeScript", "React", "Recoil"]
-        },
-        {
-          "title": {
-            "text": "Comet land",
-            "githubLink": "https://github.com/hyesungoh/comet-land",
-            "otherLink": "https://comet-land-blog.vercel.app"
-          },
-          "description": "Monorepo for blog and resume",
-          "startDate": "2021.6",
-          "endDate": "2021.12",
-          "which": ["construct monorepo with turborepo", "design with NextUI"],
-          "techStack": ["TypeScript", "React", "Next.js", "Turborepo", "NextUI", "Emotion"]
-        },
-        {
-          "title": {
-            "text": "Foo Eat",
-            "githubLink": null,
-            "otherLink": null
-          },
-          "description": "Leading FE developers",
-          "startDate": "2021.03",
-          "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "Creo y gestiono estrategias de marketing digital a través de la creación de contenidos y manejo de las comunidades en Facebook e Instagram.", 
+            "Diseño campañas en Facebook y Google Ads para el logro de objetivos de ventas."
           ],
-          "techStack": null
+          "techStack": [
+            "Facebook Ads", 
+            "Google Ads"
+          ]
         }
       ]
     },
     {
-      "name": "Bar company",
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Bar company is very awesome",
+      "name": "Monstruo Canela",
+      "position": "Community Manager",
+      "startDate": "2020",
+      "endDate": "",
+      "description": "",
       "projects": [
         {
           "title": {
-            "text": "Bar Pay",
+            "text": "Community Manager",
             "githubLink": null,
             "otherLink": null
           },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.08",
-          "endDate": "2021.03",
+          "role": "",
+          "description": "",
+          "startDate": "",
+          "endDate": "",
           "which": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "Gestioné las redes sociales de hasta 15 cuentas simultáneamente",
+            "Hacer reportes mensuales, crear, subir y programar contenido a Facebook, Instagram y Pinterest y hacer campañas en Facebook Ads"
           ],
-          "techStack": ["TypeScript", "React", "Recoil"]
-        },
+          "techStack": [
+            "Facebook Ads"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azul Clarito Marketing",
+      "position": "Content Creator",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "projects": [
         {
           "title": {
-            "text": "Bar Play",
+            "text": "Content Creator",
             "githubLink": null,
             "otherLink": null
           },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.03",
-          "endDate": "2020.08",
+          "role": "",
+          "description": "",
+          "startDate": "",
+          "endDate": "",
           "which": [
-            "perspiciatis modi dolores libero tenetur nam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing."
+            "Colaboré en el desarrollo de análisis del mercado",
+            "Llevé a cabo reportes de rendimiento web",
+            "Crear contenido de valor para las páginas web y las redes sociales de cuentas activas de la agencia"
           ],
-          "techStack": ["TypeScript", "React", "Recoil"]
+          "techStack": [
+            "Facebook Ads"
+          ]
         }
       ]
     }

@@ -32,7 +32,7 @@ function Experience({ title, position, startDate, endDate, description, which }:
 export default Experience;
 
 const Div = styled.div`
-  display: flex;
+  display: none;
   flex-direction: column;
   margin-bottom: 2rem;
 `;
